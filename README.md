@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil 
 Meu nome é Henrique
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
@@ -7,4 +7,4 @@ Meu nome é Henrique
 
 henrique.perotoni@escola.pr.gov.br
 
-![](https://tenor.com/pt-BR/view/puppy-cup-good-morning-cute-puppy-yawn-gif-17103303937571205783)
+![](https://tenor.com/pt-BR/view/puppy-cup-good-morning-cute-puppy-yawn-gif-17103303937571205783.gif)
